@@ -1,0 +1,24 @@
+C:\Users\JHAMYL\Documents\Unreal Projects\NavesUSFX_012026\Intermediate\Build\Win64\UE4Editor\Development\NavesUSFX_012026\Definitions.NavesUSFX_012026.h
+C:\Users\JHAMYL\Documents\Unreal Projects\NavesUSFX_012026\Source\NavesUSFX_012026\NavesUSFX_012026Pawn.h
+D:\UnrealE\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+D:\UnrealE\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+D:\UnrealE\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+D:\UnrealE\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+D:\UnrealE\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+D:\UnrealE\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+C:\Users\JHAMYL\Documents\Unreal Projects\NavesUSFX_012026\Intermediate\Build\Win64\UE4Editor\Inc\NavesUSFX_012026\NavesUSFX_012026Pawn.generated.h
+C:\Users\JHAMYL\Documents\Unreal Projects\NavesUSFX_012026\Source\NavesUSFX_012026\NavesUSFX_012026Projectile.h
+C:\Users\JHAMYL\Documents\Unreal Projects\NavesUSFX_012026\Intermediate\Build\Win64\UE4Editor\Inc\NavesUSFX_012026\NavesUSFX_012026Projectile.generated.h
+D:\UnrealE\UE_4.27\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h
+D:\UnrealE\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraComponent.generated.h
+D:\UnrealE\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/SpringArmComponent.h
+D:\UnrealE\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SpringArmComponent.generated.h
+D:\UnrealE\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+D:\UnrealE\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+D:\UnrealE\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+D:\UnrealE\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+D:\UnrealE\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+D:\UnrealE\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+D:\UnrealE\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
+D:\UnrealE\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+D:\UnrealE\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h

@@ -1,0 +1,15 @@
+C:\Users\JHAMYL\Documents\Unreal Projects\NavesUSFX_012026\Intermediate\Build\Win64\UE4Editor\Development\NavesUSFX_012026\Definitions.NavesUSFX_012026.h
+C:\Users\JHAMYL\Documents\Unreal Projects\NavesUSFX_012026\Source\NavesUSFX_012026\NavesUSFX_012026GameMode.h
+D:\UnrealE\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\UnrealE\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\UnrealE\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\UnrealE\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\JHAMYL\Documents\Unreal Projects\NavesUSFX_012026\Intermediate\Build\Win64\UE4Editor\Inc\NavesUSFX_012026\NavesUSFX_012026GameMode.generated.h
+C:\Users\JHAMYL\Documents\Unreal Projects\NavesUSFX_012026\Source\NavesUSFX_012026\NavesUSFX_012026Pawn.h
+D:\UnrealE\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+D:\UnrealE\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+D:\UnrealE\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+D:\UnrealE\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+D:\UnrealE\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+D:\UnrealE\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+C:\Users\JHAMYL\Documents\Unreal Projects\NavesUSFX_012026\Intermediate\Build\Win64\UE4Editor\Inc\NavesUSFX_012026\NavesUSFX_012026Pawn.generated.h

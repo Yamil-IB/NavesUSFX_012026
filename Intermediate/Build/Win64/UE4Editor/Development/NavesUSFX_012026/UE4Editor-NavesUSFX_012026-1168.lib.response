@@ -1,0 +1,23 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-NavesUSFX_012026-1168.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\JHAMYL\Documents\Unreal Projects\NavesUSFX_012026\Intermediate\Build\Win64\NavesUSFX_012026Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\JHAMYL\Documents\Unreal Projects\NavesUSFX_012026\Intermediate\Build\Win64\UE4Editor\Development\NavesUSFX_012026\ContenedorEnemigos.cpp.obj"
+"C:\Users\JHAMYL\Documents\Unreal Projects\NavesUSFX_012026\Intermediate\Build\Win64\UE4Editor\Development\NavesUSFX_012026\Enemigo.cpp.obj"
+"C:\Users\JHAMYL\Documents\Unreal Projects\NavesUSFX_012026\Intermediate\Build\Win64\UE4Editor\Development\NavesUSFX_012026\NavesUSFX_012026.cpp.obj"
+"C:\Users\JHAMYL\Documents\Unreal Projects\NavesUSFX_012026\Intermediate\Build\Win64\UE4Editor\Development\NavesUSFX_012026\NavesUSFX_012026GameMode.cpp.obj"
+"C:\Users\JHAMYL\Documents\Unreal Projects\NavesUSFX_012026\Intermediate\Build\Win64\UE4Editor\Development\NavesUSFX_012026\NavesUSFX_012026Pawn.cpp.obj"
+"C:\Users\JHAMYL\Documents\Unreal Projects\NavesUSFX_012026\Intermediate\Build\Win64\UE4Editor\Development\NavesUSFX_012026\NavesUSFX_012026Projectile.cpp.obj"
+"C:\Users\JHAMYL\Documents\Unreal Projects\NavesUSFX_012026\Intermediate\Build\Win64\UE4Editor\Development\NavesUSFX_012026\ContenedorEnemigos.gen.cpp.obj"
+"C:\Users\JHAMYL\Documents\Unreal Projects\NavesUSFX_012026\Intermediate\Build\Win64\UE4Editor\Development\NavesUSFX_012026\Enemigo.gen.cpp.obj"
+"C:\Users\JHAMYL\Documents\Unreal Projects\NavesUSFX_012026\Intermediate\Build\Win64\UE4Editor\Development\NavesUSFX_012026\NavesUSFX_012026.init.gen.cpp.obj"
+"C:\Users\JHAMYL\Documents\Unreal Projects\NavesUSFX_012026\Intermediate\Build\Win64\UE4Editor\Development\NavesUSFX_012026\NavesUSFX_012026GameMode.gen.cpp.obj"
+"C:\Users\JHAMYL\Documents\Unreal Projects\NavesUSFX_012026\Intermediate\Build\Win64\UE4Editor\Development\NavesUSFX_012026\NavesUSFX_012026Pawn.gen.cpp.obj"
+"C:\Users\JHAMYL\Documents\Unreal Projects\NavesUSFX_012026\Intermediate\Build\Win64\UE4Editor\Development\NavesUSFX_012026\NavesUSFX_012026Projectile.gen.cpp.obj"
+"C:\Users\JHAMYL\Documents\Unreal Projects\NavesUSFX_012026\Intermediate\Build\Win64\UE4Editor\Development\NavesUSFX_012026\Default.rc2.res"
+/OUT:"C:\Users\JHAMYL\Documents\Unreal Projects\NavesUSFX_012026\Intermediate\Build\Win64\UE4Editor\Development\NavesUSFX_012026\UE4Editor-NavesUSFX_012026-1168.lib"

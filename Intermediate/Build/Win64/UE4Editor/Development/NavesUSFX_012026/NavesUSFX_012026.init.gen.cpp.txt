@@ -1,0 +1,3 @@
+C:\Users\JHAMYL\Documents\Unreal Projects\NavesUSFX_012026\Intermediate\Build\Win64\UE4Editor\Development\NavesUSFX_012026\Definitions.NavesUSFX_012026.h
+D:\UnrealE\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\UnrealE\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
