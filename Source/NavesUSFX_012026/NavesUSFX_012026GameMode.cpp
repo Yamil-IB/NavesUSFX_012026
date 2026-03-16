@@ -1,5 +1,5 @@
 // Copyright Epic Games, Inc. All Rights Reserved.
-
+//Game mode cpp
 #include "NavesUSFX_012026GameMode.h"
 #include "NavesUSFX_012026Pawn.h"
 #include "TimerManager.h"
